@@ -6,3 +6,4 @@ if array[count] == value_to_find
 end
     count+=1
   end
+end
